@@ -760,6 +760,8 @@ class Zone(IntEnum):
 	SETASIDE = 6
 	SECRET = 7
 
+	DISCARD = -2
+
 
 ##
 # Game enums
